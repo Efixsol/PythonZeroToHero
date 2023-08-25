@@ -10,6 +10,8 @@
 // var createLiText = document.createTextNode('java');
 // createLiNode.appendChild(createLiText);
 // ul.appendChild(createLiNode);
+///////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////
 // var refNode = document.getElementById('item33');
 // // var newNode = document.createElement('li');
 // // var newNodeText = document.createTextNode("machine");
